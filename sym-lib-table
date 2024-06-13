@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RFSW6042")(type "KiCad")(uri "/Users/bernerus/Downloads/ul_RFSW6042/KiCADv6/2024-06-02_15-27-28.kicad_sym")(options "")(descr ""))
+  (lib (name "LP2985")(type "KiCad")(uri "/Users/bernerus/Downloads/ul_LP2985-50DBVR/KiCADv6/2024-06-10_05-58-34.kicad_sym")(options "")(descr ""))
+)

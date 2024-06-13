@@ -1,0 +1,175 @@
+(footprint "5CHT"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "ConnectorMicromatch-4")
+	(property "Reference" "REF**"
+		(at -0.162 5.778 180)
+		(layer "F.SilkS")
+		(uuid "c1cfb5a1-9b5f-4376-87b7-ab172b55917d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "FE-1069"
+		(at 0 7 180)
+		(layer "F.Fab")
+		(uuid "5bb12322-3e32-4658-b63b-aa1fa48b814b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "FBQ:5CHT"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9d64a312-6792-4dc2-ae84-441598e774a3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.rf-microwave.com/resources/products_attachments/5a438705a6b88.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ca7a5714-f891-4169-b260-5a17f0d65e8b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "TOKO 3 pol helical filter 493S-1069A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f22049ad-74a7-46fb-a54e-06bb59c7eae7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -8.7 -3)
+		(end 8.6 3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "be8d779c-a5af-43f4-b317-2591ddfd7dcb")
+	)
+	(fp_rect
+		(start -8.7 -4.5)
+		(end 8.6 4.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "624f594b-7799-47dc-a35e-03cb3c54ce56")
+	)
+	(pad "1" smd rect
+		(at -7.25 -3.67)
+		(size 1.2 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "6651d432-e6d9-4e12-b82c-7b4b220547e4")
+	)
+	(pad "1" smd rect
+		(at -7.25 -3.67)
+		(size 1.2 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "72d10b4b-48bb-413e-b09c-3d0579b5909f")
+	)
+	(pad "2" smd rect
+		(at -7.25 3.73)
+		(size 1.2 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "02f6d7a2-92fb-4e98-a675-703d5c9f96ef")
+	)
+	(pad "2" smd rect
+		(at -7.25 3.73)
+		(size 1.2 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "e9c5cf93-61c1-431a-b2f9-37e9f6705019")
+	)
+	(pad "7" smd rect
+		(at 7.25 3.73)
+		(size 1.2 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "13ab5556-7ab6-463d-9cbc-1a881824c636")
+	)
+	(pad "8" smd rect
+		(at 7.25 -3.67)
+		(size 1.2 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "af8cd97a-22dc-4acd-8881-09b1da41963e")
+	)
+	(pad "GND" smd rect
+		(at -4.05 -3.67)
+		(size 1.2 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "29153b9d-e930-4f89-9cb0-4c2b8429f166")
+	)
+	(pad "GND" smd rect
+		(at -4.05 3.73)
+		(size 1.2 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "0696d2b8-45b6-477d-b3b8-54bcebe95d87")
+	)
+	(pad "GND" smd rect
+		(at -1.6 -3.67)
+		(size 1.2 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "1f81d383-ae5a-4649-82fa-6d952332be65")
+	)
+	(pad "GND" smd rect
+		(at -1.6 3.73)
+		(size 1.2 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "2643da32-e9b7-42a5-94f8-dee8431d5af1")
+	)
+	(pad "GND" smd rect
+		(at 1.6 -3.67)
+		(size 1.2 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "dc92ed18-f013-43ab-86ac-1d3d9e010ea0")
+	)
+	(pad "GND" smd rect
+		(at 1.6 3.73)
+		(size 1.2 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "86ba9ae3-60ed-4952-9475-4df19e0add73")
+	)
+	(pad "GND" smd rect
+		(at 4.05 -3.67)
+		(size 1.2 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "664520a7-4aa3-4ee1-8a39-42cf7c2ab925")
+	)
+	(pad "GND" smd rect
+		(at 4.05 3.73)
+		(size 1.2 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "588572ab-d168-4194-9b44-5c632a32adb3")
+	)
+)
