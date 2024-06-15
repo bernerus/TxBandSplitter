@@ -2670,7 +2670,7 @@
 			(uuid "79ee85bd-3911-4f90-988a-3d99113ba533")
 		)
 		(instances
-			(project "Filter-forest-v3"
+			(project "TxBandSplitter"
 				(path "/ae1480d0-f002-41f2-b825-fdf5a9c06b18/d203c681-251f-40b0-b414-89eac4eb8e34"
 					(reference "U203")
 					(unit 1)
@@ -2736,7 +2736,7 @@
 			(uuid "39e815f6-b886-4fa3-889a-abda1d96b3dc")
 		)
 		(instances
-			(project "Filter-forest-v3"
+			(project "TxBandSplitter"
 				(path "/ae1480d0-f002-41f2-b825-fdf5a9c06b18/d203c681-251f-40b0-b414-89eac4eb8e34"
 					(reference "TP4")
 					(unit 1)
@@ -2823,7 +2823,7 @@
 			(uuid "2fd20a72-3b93-4d86-86e7-e7f9aee70f88")
 		)
 		(instances
-			(project "Filter-forest-v3"
+			(project "TxBandSplitter"
 				(path "/ae1480d0-f002-41f2-b825-fdf5a9c06b18/d203c681-251f-40b0-b414-89eac4eb8e34"
 					(reference "D201")
 					(unit 1)
@@ -2893,7 +2893,7 @@
 			(uuid "cd2069c2-60ef-4dc6-b5ca-c3ceb94faed4")
 		)
 		(instances
-			(project "Filter-forest-v3"
+			(project "TxBandSplitter"
 				(path "/ae1480d0-f002-41f2-b825-fdf5a9c06b18/d203c681-251f-40b0-b414-89eac4eb8e34"
 					(reference "R201")
 					(unit 1)
@@ -2963,7 +2963,7 @@
 			(uuid "c3689f0f-90c6-456a-b32b-7f7130430387")
 		)
 		(instances
-			(project "Filter-forest-v3"
+			(project "TxBandSplitter"
 				(path "/ae1480d0-f002-41f2-b825-fdf5a9c06b18/d203c681-251f-40b0-b414-89eac4eb8e34"
 					(reference "C205")
 					(unit 1)
@@ -3029,7 +3029,7 @@
 			(uuid "74ca29cb-8746-4ebf-8f76-85e14ea43d38")
 		)
 		(instances
-			(project "Filter-forest-v3"
+			(project "TxBandSplitter"
 				(path "/ae1480d0-f002-41f2-b825-fdf5a9c06b18/d203c681-251f-40b0-b414-89eac4eb8e34"
 					(reference "#PWR0202")
 					(unit 1)
@@ -3096,7 +3096,7 @@
 			(uuid "bab71388-eee4-4235-a187-6c2c619ba489")
 		)
 		(instances
-			(project "Filter-forest-v3"
+			(project "TxBandSplitter"
 				(path "/ae1480d0-f002-41f2-b825-fdf5a9c06b18/d203c681-251f-40b0-b414-89eac4eb8e34"
 					(reference "#PWR0203")
 					(unit 1)
@@ -3173,7 +3173,7 @@
 			(uuid "61dbca80-bb60-40e2-aec7-18727d2c964b")
 		)
 		(instances
-			(project "Filter-forest-v3"
+			(project "TxBandSplitter"
 				(path "/ae1480d0-f002-41f2-b825-fdf5a9c06b18/d203c681-251f-40b0-b414-89eac4eb8e34"
 					(reference "U204")
 					(unit 1)
@@ -3261,7 +3261,7 @@
 			(uuid "c7e7bab2-a0bf-4a85-afd8-5f1a81f4eb3e")
 		)
 		(instances
-			(project "Filter-forest-v3"
+			(project "TxBandSplitter"
 				(path "/ae1480d0-f002-41f2-b825-fdf5a9c06b18/d203c681-251f-40b0-b414-89eac4eb8e34"
 					(reference "D202")
 					(unit 1)
@@ -3331,7 +3331,7 @@
 			(uuid "6f02a1dd-37ad-4881-9401-f5347af0713a")
 		)
 		(instances
-			(project "Filter-forest-v3"
+			(project "TxBandSplitter"
 				(path "/ae1480d0-f002-41f2-b825-fdf5a9c06b18/d203c681-251f-40b0-b414-89eac4eb8e34"
 					(reference "R203")
 					(unit 1)
@@ -3401,7 +3401,7 @@
 			(uuid "39adc32e-ddab-4ffd-ad13-e79cceab8396")
 		)
 		(instances
-			(project "Filter-forest-v3"
+			(project "TxBandSplitter"
 				(path "/ae1480d0-f002-41f2-b825-fdf5a9c06b18/d203c681-251f-40b0-b414-89eac4eb8e34"
 					(reference "C202")
 					(unit 1)
@@ -3471,7 +3471,7 @@
 			(uuid "3e168efe-7bcc-442c-bc17-94c62b3e4cba")
 		)
 		(instances
-			(project "Filter-forest-v3"
+			(project "TxBandSplitter"
 				(path "/ae1480d0-f002-41f2-b825-fdf5a9c06b18/d203c681-251f-40b0-b414-89eac4eb8e34"
 					(reference "C204")
 					(unit 1)
@@ -3537,7 +3537,7 @@
 			(uuid "c7fb6711-8ff7-4b9f-afe3-0aa3258717a3")
 		)
 		(instances
-			(project "Filter-forest-v3"
+			(project "TxBandSplitter"
 				(path "/ae1480d0-f002-41f2-b825-fdf5a9c06b18/d203c681-251f-40b0-b414-89eac4eb8e34"
 					(reference "#PWR0201")
 					(unit 1)
@@ -3607,7 +3607,7 @@
 			(uuid "f48968c6-74d2-45cb-bb79-233f65d9e717")
 		)
 		(instances
-			(project "Filter-forest-v3"
+			(project "TxBandSplitter"
 				(path "/ae1480d0-f002-41f2-b825-fdf5a9c06b18/d203c681-251f-40b0-b414-89eac4eb8e34"
 					(reference "C201")
 					(unit 1)
@@ -3677,7 +3677,7 @@
 			(uuid "c423ed75-a896-41f6-9aed-ebea3e7ddcb7")
 		)
 		(instances
-			(project "Filter-forest-v3"
+			(project "TxBandSplitter"
 				(path "/ae1480d0-f002-41f2-b825-fdf5a9c06b18/d203c681-251f-40b0-b414-89eac4eb8e34"
 					(reference "R202")
 					(unit 1)
@@ -3744,7 +3744,7 @@
 			(uuid "8bb05c0f-7dce-4775-9eea-7cef274ff369")
 		)
 		(instances
-			(project "Filter-forest-v3"
+			(project "TxBandSplitter"
 				(path "/ae1480d0-f002-41f2-b825-fdf5a9c06b18/d203c681-251f-40b0-b414-89eac4eb8e34"
 					(reference "TP2")
 					(unit 1)
@@ -3814,7 +3814,7 @@
 			(uuid "be759431-d655-4d63-8554-2715672fc97b")
 		)
 		(instances
-			(project "Filter-forest-v3"
+			(project "TxBandSplitter"
 				(path "/ae1480d0-f002-41f2-b825-fdf5a9c06b18/d203c681-251f-40b0-b414-89eac4eb8e34"
 					(reference "C203")
 					(unit 1)
@@ -3884,7 +3884,7 @@
 			(uuid "d4da6520-51b8-48c0-97f2-bc7630fc746f")
 		)
 		(instances
-			(project "Filter-forest-v3"
+			(project "TxBandSplitter"
 				(path "/ae1480d0-f002-41f2-b825-fdf5a9c06b18/d203c681-251f-40b0-b414-89eac4eb8e34"
 					(reference "D203")
 					(unit 1)
@@ -3954,7 +3954,7 @@
 			(uuid "28fbae31-89fd-4d1d-9989-b753e31c5816")
 		)
 		(instances
-			(project "Filter-forest-v3"
+			(project "TxBandSplitter"
 				(path "/ae1480d0-f002-41f2-b825-fdf5a9c06b18/d203c681-251f-40b0-b414-89eac4eb8e34"
 					(reference "C207")
 					(unit 1)
@@ -4024,7 +4024,7 @@
 			(uuid "8469a142-aa97-4442-90ed-3357a1c0ccca")
 		)
 		(instances
-			(project "Filter-forest-v3"
+			(project "TxBandSplitter"
 				(path "/ae1480d0-f002-41f2-b825-fdf5a9c06b18/d203c681-251f-40b0-b414-89eac4eb8e34"
 					(reference "C206")
 					(unit 1)
@@ -4095,7 +4095,7 @@
 			(uuid "deb248ae-775e-440b-ae7b-84156d8ec406")
 		)
 		(instances
-			(project "Filter-forest-v3"
+			(project "TxBandSplitter"
 				(path "/ae1480d0-f002-41f2-b825-fdf5a9c06b18/d203c681-251f-40b0-b414-89eac4eb8e34"
 					(reference "U202")
 					(unit 1)
@@ -4162,7 +4162,7 @@
 			(uuid "2a534ef7-be61-44ba-9b6a-e14102902fa4")
 		)
 		(instances
-			(project "Filter-forest-v3"
+			(project "TxBandSplitter"
 				(path "/ae1480d0-f002-41f2-b825-fdf5a9c06b18/d203c681-251f-40b0-b414-89eac4eb8e34"
 					(reference "TP1")
 					(unit 1)
@@ -4229,7 +4229,7 @@
 			(uuid "1c1fc7c0-b642-4938-8140-f8137bec1c88")
 		)
 		(instances
-			(project "Filter-forest-v3"
+			(project "TxBandSplitter"
 				(path "/ae1480d0-f002-41f2-b825-fdf5a9c06b18/d203c681-251f-40b0-b414-89eac4eb8e34"
 					(reference "TP3")
 					(unit 1)
