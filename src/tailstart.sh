@@ -1,0 +1,1 @@
+tail -f ~/SM6FBQ/log/SoapySDRServer | /home/bernerus/proj/SDRTxControl/main.py --debugging

@@ -1,0 +1,7 @@
+Filter-forest*
+*.swp
+**/*-backups
+*.gbrjob
+*-bak
+*.lck
+
